@@ -1,0 +1,5 @@
+id: dingtalk-markdown-formatter
+name: DingTalk Markdown Formatter
+version: 1.0.0
+description: Wrap AI response in DingTalk-compatible markdown with LaTeX support
+type: postprocessor
